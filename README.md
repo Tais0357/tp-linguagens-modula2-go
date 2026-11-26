@@ -58,7 +58,7 @@ go run go/<pasta>/<arquivo>.go
 * [x] [1. Contexto histórico](comparacoes/01-contexto-historico.md)
 * [x] [2. Paradigmas](comparacoes/02-paradigmas.md)
 * [x] [3. Implementação](comparacoes/03-implementacao.md)
-* [ ] 4. Propriedades desejáveis
+* [x] [4. Propriedades desejáveis](comparacoes/04-propriedades-desejaveis.md)
 * [ ] 5. Identificadores e amarrações
 * [ ] 6. Escopo
 
