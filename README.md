@@ -59,7 +59,7 @@ go run go/<pasta>/<arquivo>.go
 * [x] [2. Paradigmas](comparacoes/02-paradigmas.md)
 * [x] [3. Implementação](comparacoes/03-implementacao.md)
 * [x] [4. Propriedades desejáveis](comparacoes/04-propriedades-desejaveis.md)
-* [ ] 5. Identificadores e amarrações
+* [x] [5. Identificadores e amarrações](comparacoes/05-identificadores-amarracoes.md)
 * [ ] 6. Escopo
 
 ### Bloco 2 — Dados e Memória
