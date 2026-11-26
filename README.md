@@ -57,7 +57,7 @@ go run go/<pasta>/<arquivo>.go
 ### Bloco 1 — Fundamentos
 * [x] [1. Contexto histórico](comparacoes/01-contexto-historico.md)
 * [x] [2. Paradigmas](comparacoes/02-paradigmas.md)
-* [ ] 3. Implementação
+* [x] [3. Implementação](comparacoes/03-implementacao.md)
 * [ ] 4. Propriedades desejáveis
 * [ ] 5. Identificadores e amarrações
 * [ ] 6. Escopo
