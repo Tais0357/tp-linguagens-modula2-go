@@ -22,3 +22,7 @@
 * WIRTH, Niklaus. *Programming in Modula-2*. 4. ed. Berlin: Springer-Verlag, 1988. (Capítulos sobre vocabulário, declarações e blocos).
 * ISO/IEC 10514-1:1996. *Information technology — Programming languages — Part 1: Modula-2, Base Language*.
 * THE GO PROGRAMMING LANGUAGE. *The Go Programming Language Specification — Identifiers, Declarations and Scope*. Disponível em: https://go.dev/ref/spec.
+
+## Tópico 6 — Escopo
+* WIRTH, Niklaus. *Programming in Modula-2*. 4. ed. Berlin: Springer-Verlag, 1988. (Seções sobre escopo de identificadores, procedimentos aninhados e módulos locais).
+* THE GO PROGRAMMING LANGUAGE. *The Go Programming Language Specification — Blocks and Declarations and scope*. Disponível em: https://go.dev/ref/spec#Declarations_and_scope.
