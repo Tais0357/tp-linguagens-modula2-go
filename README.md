@@ -60,7 +60,7 @@ go run go/<pasta>/<arquivo>.go
 * [x] [3. Implementação](comparacoes/03-implementacao.md)
 * [x] [4. Propriedades desejáveis](comparacoes/04-propriedades-desejaveis.md)
 * [x] [5. Identificadores e amarrações](comparacoes/05-identificadores-amarracoes.md)
-* [ ] 6. Escopo
+* [x] [6. Escopo](comparacoes/06-escopo.md)
 
 ### Bloco 2 — Dados e Memória
 * [ ] 7. Tipos primitivos
