@@ -30,3 +30,7 @@
 ## Tópico 7 — Tipos Primitivos
 * WIRTH, Niklaus. *Programming in Modula-2*. 4. ed. Berlin: Springer-Verlag, 1988. (Capítulo sobre tipos básicos: INTEGER, CARDINAL, REAL, BOOLEAN e CHAR).
 * THE GO PROGRAMMING LANGUAGE. *The Go Programming Language Specification — Numeric types and Boolean types*. Disponível em: https://go.dev/ref/spec#Types.
+
+## Tópico 8 — Representação dos Tipos
+* WIRTH, Niklaus. *Programming in Modula-2*. 4. ed. Berlin: Springer-Verlag, 1988. (Seções sobre tipos básicos e módulo SYSTEM).
+* THE GO PROGRAMMING LANGUAGE. *The Go Programming Language Specification — Numeric types*. Disponível em: https://go.dev/ref/spec#Numeric_types.
