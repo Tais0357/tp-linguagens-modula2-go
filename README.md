@@ -63,7 +63,7 @@ go run go/<pasta>/<arquivo>.go
 * [x] [6. Escopo](comparacoes/06-escopo.md)
 
 ### Bloco 2 — Dados e Memória
-* [ ] 7. Tipos primitivos
+* [x] [7. Tipos primitivos](comparacoes/07-tipos-primitivos.md)
 * [ ] 8. Representação dos tipos
 * [ ] 9. Tipos compostos
 * [ ] 10. Strings
